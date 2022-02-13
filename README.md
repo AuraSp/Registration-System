@@ -31,5 +31,5 @@ and goes back to the choosing options;
   
  
  # Additional comments
- First finished bigger school project created by others, who chose us to create this.\
+ First finished bigger school project organized by others, who chose us to programme this.\
  Work progressed not only with live meetings, but also remotely.
