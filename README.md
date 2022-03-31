@@ -2,7 +2,7 @@
 Project with Justinas and Adam
 
 
-## Programming language, tool and etc. requirements
+## Programming language, tools and etc. requirements
 **No CSS**;\
 **No JS DOM (only for easier project testing purpose)**;\
 **NO HTML (no form creation)**;\
