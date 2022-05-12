@@ -20,6 +20,7 @@ Project with Justinas and Adam
         - Gmail (***can not repeat/duplicate, must contain special email characters!***);
     - If registration is succesful:
         - The function returns - true, but only with the message - 'Login successful';
+     - If registration is unsuccesful:
         - The function returns - false, but only with the message - 'Try again';
   
 - Login:
@@ -31,5 +32,5 @@ and goes back to the choosing options;
   
  
  # Additional comments
- First finished bigger school project organized by others, who chose us to programme this.\
+ First finished bigger school project organized by others, who chose us to program this.\
  Work progressed not only with live meetings, but also remotely.
